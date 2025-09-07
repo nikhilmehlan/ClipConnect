@@ -59,4 +59,4 @@ This project is currently unlicensed. Please contact the project owner for permi
 
 ## Contact
 
-For any questions or support, please contact Nikhil Mehlan at nikhilmehlan1234@gmail.com.
+For any questions or support, please contact Nikhil Mehlan via email at nikhilmehlan1234@gmail.com.
